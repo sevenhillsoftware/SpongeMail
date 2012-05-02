@@ -1,4 +1,6 @@
 target
 .properties
+.project
+.settings
 .classpath
-DS_Store
+.DS_Store
